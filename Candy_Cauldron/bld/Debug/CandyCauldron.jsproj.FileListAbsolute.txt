@@ -1,0 +1,30 @@
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bin\Debug\ReverseMap\resources.pri
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bin\Debug\AppxManifest.xml
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bin\Debug\CandyCauldron.build.appxrecipe
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\priconfig.xml
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\priconfig.xml.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\layout.resfiles
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\layout.resfiles.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\resources.resfiles
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\resources.resfiles.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\pri.resfiles
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\pri.resfiles.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\qualifiers.txt
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\qualifiers.txt.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Debug\ProjectArchitectures.txt
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bin\Debug\ReverseMap\resources.pri
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bin\Debug\AppxManifest.xml
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bin\Debug\CandyCauldron.build.appxrecipe
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\priconfig.xml
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\priconfig.xml.intermediate
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\layout.resfiles
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\layout.resfiles.intermediate
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\resources.resfiles
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\resources.resfiles.intermediate
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\pri.resfiles
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\pri.resfiles.intermediate
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\qualifiers.txt
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\qualifiers.txt.intermediate
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\ProjectArchitectures.txt

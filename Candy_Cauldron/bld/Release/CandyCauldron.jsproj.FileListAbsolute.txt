@@ -1,0 +1,15 @@
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bin\Release\resources.pri
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bin\Release\AppxManifest.xml
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bin\Release\CandyCauldron.build.appxrecipe
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\priconfig.xml
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\priconfig.xml.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\layout.resfiles
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\layout.resfiles.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\resources.resfiles
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\resources.resfiles.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\pri.resfiles
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\pri.resfiles.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\qualifiers.txt
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\qualifiers.txt.intermediate
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\siddarth\Desktop\final submission\Candy Cauldron\bld\Release\ProjectArchitectures.txt

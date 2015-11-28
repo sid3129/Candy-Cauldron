@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="46341sidgoyal.CandyCauldron" Version="1.1.0.2" Publisher="CN=A68008BD-0367-4825-B833-218F58D606C8" />
+  <Properties>
+    <DisplayName>Candy Cauldron</DisplayName>
+    <Description>catch the candy and compete for the high score</Description>
+    <PublisherDisplayName>sid goyal</PublisherDisplayName>
+    <Logo>app-storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="index.html">
+      <m2:VisualElements DisplayName="Candy Cauldron" Description="catch the candy and compete for the high score" BackgroundColor="#464646" ForegroundText="light" Square150x150Logo="app-logo.png" Square30x30Logo="app-smalllogo.png">
+        <m2:DefaultTile>
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="splashscreen.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
