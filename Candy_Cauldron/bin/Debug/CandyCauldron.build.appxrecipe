@@ -7,146 +7,146 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>46341sidgoyal.CandyCauldron</PackageIdentityName>
-    <IntermediateOutputPath>C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bld\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\bld\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\index.html">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\index.html">
       <PackagePath>index.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\about.html">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\about.html">
       <PackagePath>about.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\support.html">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\support.html">
       <PackagePath>support.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\privacy.html">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\privacy.html">
       <PackagePath>privacy.html</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\c2runtime.js">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\c2runtime.js">
       <PackagePath>c2runtime.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\jquery-2.0.0.min.js">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\jquery-2.0.0.min.js">
       <PackagePath>jquery-2.0.0.min.js</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\sprite-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\sprite-sheet0.png">
       <PackagePath>images\sprite-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\bean_yellow-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\bean_yellow-sheet0.png">
       <PackagePath>images\bean_yellow-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\bean_green-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\bean_green-sheet0.png">
       <PackagePath>images\bean_green-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\heart_red-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\heart_red-sheet0.png">
       <PackagePath>images\heart_red-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\heart_teal-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\heart_teal-sheet0.png">
       <PackagePath>images\heart_teal-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\lollipop_rainbow-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\lollipop_rainbow-sheet0.png">
       <PackagePath>images\lollipop_rainbow-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\lollipop_green-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\lollipop_green-sheet0.png">
       <PackagePath>images\lollipop_green-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\lollipop_pink-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\lollipop_pink-sheet0.png">
       <PackagePath>images\lollipop_pink-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\wrappedtrans_blue-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\wrappedtrans_blue-sheet0.png">
       <PackagePath>images\wrappedtrans_blue-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\wrappedtrans_green-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\wrappedtrans_green-sheet0.png">
       <PackagePath>images\wrappedtrans_green-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\wrappedtrans_purple-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\wrappedtrans_purple-sheet0.png">
       <PackagePath>images\wrappedtrans_purple-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\candycane-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\candycane-sheet0.png">
       <PackagePath>images\candycane-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\candycorn-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\candycorn-sheet0.png">
       <PackagePath>images\candycorn-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\star_green-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\star_green-sheet0.png">
       <PackagePath>images\star_green-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\star_orange-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\star_orange-sheet0.png">
       <PackagePath>images\star_orange-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\jellybig_green-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\jellybig_green-sheet0.png">
       <PackagePath>images\jellybig_green-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\jellybig_red-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\jellybig_red-sheet0.png">
       <PackagePath>images\jellybig_red-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\jellybig_yellow-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\jellybig_yellow-sheet0.png">
       <PackagePath>images\jellybig_yellow-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\jelly_pink-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\jelly_pink-sheet0.png">
       <PackagePath>images\jelly_pink-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\jelly_blue-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\jelly_blue-sheet0.png">
       <PackagePath>images\jelly_blue-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\jelly_teal-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\jelly_teal-sheet0.png">
       <PackagePath>images\jelly_teal-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\sprite2-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\sprite2-sheet0.png">
       <PackagePath>images\sprite2-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\life1-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\life1-sheet0.png">
       <PackagePath>images\life1-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\sprite3-sheet0.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\sprite3-sheet0.png">
       <PackagePath>images\sprite3-sheet0.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\images\tiledbackground.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\images\tiledbackground.png">
       <PackagePath>images\tiledbackground.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\icon-16.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\icon-16.png">
       <PackagePath>icon-16.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\icon-32.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\icon-32.png">
       <PackagePath>icon-32.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\icon-114.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\icon-114.png">
       <PackagePath>icon-114.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\icon-128.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\icon-128.png">
       <PackagePath>icon-128.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\icon-256.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\icon-256.png">
       <PackagePath>icon-256.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\loading-logo.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\loading-logo.png">
       <PackagePath>loading-logo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\app-logo.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\app-logo.png">
       <PackagePath>app-logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\app-smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\app-smalllogo.png">
       <PackagePath>app-smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\app-storelogo.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\app-storelogo.png">
       <PackagePath>app-storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\splashscreen.png">
       <PackagePath>splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\WindowsStoreProxy.xml">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\WindowsStoreProxy.xml">
       <PackagePath>WindowsStoreProxy.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\siddarth\Documents\Visual Studio 2013\Projects\Candy Cauldron\bin\Debug\ReverseMap\resources.pri">
+    <AppxPackagedFile Include="C:\Users\siddarth\Documents\GitHub\Candy-Cauldron\Candy_Cauldron\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
